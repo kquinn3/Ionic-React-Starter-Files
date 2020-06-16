@@ -1,0 +1,7 @@
+{
+  "name": "fleet-champ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
